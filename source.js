@@ -1,10 +1,11 @@
 import {src1 as one} from "./src1.js" 
 import {src2 as two} from "./src2.js" 
 import {src3 as three} from "./src3.js" 
+import{src4 as four} from "./src4.js"
 
-const src=[one, two, three]
+const src=[one, two, three, four]
 
-let random = Math.round(Math.random() * (3-1) )
+let random = Math.round(Math.random() * (src.length-1) )
 
 populatePage(src[random])
 

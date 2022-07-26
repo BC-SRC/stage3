@@ -1,7 +1,7 @@
 export let src1={
-    hair:'', //hair 
-    year:'',    //year of study
-    hobby:'',   //hobby
-    favSub:'',  //favourite subject
-    feature:'', //unique feature
+    hair:'short brown hair', //hair 
+    year:'1',    //year of study
+    hobby:'piano',   //hobby
+    favSub:'math',  //favourite subject
+    feature:'button nose', //unique feature
 }
