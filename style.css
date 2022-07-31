@@ -38,6 +38,7 @@ section >h1{
 }
 .traits{
     text-align: center;
+    line-height: 20vh;
     border-style: dotted;
     border-radius: 30%;
     border-color: crimson;
