@@ -39,8 +39,6 @@ section >h1{
 .traits{
     text-align: center;
     padding: 50px 0;
-    border-style: dotted;
-    border-radius: 30%;
     border-color: crimson;
     animation:spin 2s ease-out
 }
@@ -56,7 +54,7 @@ footer > h1{
 }
 
 .load{position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);
-  /*change these sizes to fit into your project*/
+
   width:100px;
   height:100px;
 }
